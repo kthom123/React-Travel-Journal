@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "create-gh-pages": "git branch gh-pages -f && git push origin gh-pages -f && gh-pages -d build && gh repo view -w",
-    "deploy": "npm run create-gh-pages"
+    "deploy": "npm install && npm run create-gh-pages"
   },
   "eslintConfig": {
     "extends": [

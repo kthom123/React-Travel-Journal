@@ -1,6 +1,6 @@
 # React Travel Journal
 
-This project was created using React
+This project was created using React. 
 
 A simple travel journal with popular spots
 
@@ -8,7 +8,8 @@ A simple travel journal with popular spots
 ![react travel journal 2](https://user-images.githubusercontent.com/99015262/182081145-de98304f-52ce-444e-a0d0-402e395aeb17.png)
 
 
-
+Check it out! 
+https://kthom123.github.io/React-Travel-Journal/
 
 
 In the project directory, you can run:

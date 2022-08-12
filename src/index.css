@@ -168,7 +168,7 @@ main {
 @media screen and (min-width: 1200px) {
   .card-body {
     width: 35vw;
-    height: 22vh;
+    height: 27vh;
   }
 
   .list-cards {

@@ -57,6 +57,7 @@ main {
   display: flex;
   flex-flow: row wrap;
   padding: 20px;
+  margin: 30px;
   align-items: center;
 }
 
@@ -167,7 +168,7 @@ main {
 
 @media screen and (min-width: 1200px) {
   .card-body {
-    width: 35vw;
+    width: 50vw;
     height: 27vh;
   }
 

@@ -61,7 +61,7 @@ main {
 }
 
 .card-location {
-  font-size: 12px;
+  font-size: 13px;
   display: flex;
   width: 100%;
   align-items: center;
@@ -81,7 +81,7 @@ main {
 .card-link {
   margin: 0 15px;
   letter-spacing: normal;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .card-link:link {
@@ -106,7 +106,7 @@ main {
 }
 
 .date span {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   margin-bottom: 7px;
 }
@@ -126,10 +126,10 @@ main {
 
 .description {
   text-align: justify;
-  font-size: 10px;
+  font-size: 14px;
   font-weight: 400;
   width: 90%;
-  height: 55px;
+  height: 50px;
   overflow-y: scroll;
 }
 
@@ -168,7 +168,7 @@ main {
 @media screen and (min-width: 1200px) {
   .card-body {
     width: 35vw;
-    height: 17vh;
+    height: 22vh;
   }
 
   .list-cards {
